@@ -1,5 +1,6 @@
 # SSC_subtype_NMF
-Using NMF to subtype ASD
+This repository shows the main code of study "Transcriptomic Analysis in Autism Spectrum Disorder Suggests Three Molecular Subtypes with Distinct Phenotypic Profiles and Functional Pathways", which identified three distinct ASD clusters via NMF.
+
 ## 1. required packages
 ### data.table (1.17.4)
 ### MASS (7.3.58.1)
