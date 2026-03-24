@@ -1,3 +1,5 @@
+## This script is to perform NMF analysis, 
+## and nmf.results include w matrix and h matirx, helping us cluster samples and analyze metagenes.
 start_time <- Sys.time()
 library(NMF)
 library(data.table)
