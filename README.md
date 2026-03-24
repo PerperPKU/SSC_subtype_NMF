@@ -13,6 +13,6 @@ Using NMF to subtype ASD
 ## 4. Run NMF using trait_related gene expression matrix (chooose optimal rank)
 2. NMF_random_n30_1711ASD_5pheno_686_genes_overlap_genes.R
 ## 5. Run NMF using trait_related gene expression matrix using optimal rank
-
+3.run_NMF_with_rank_3_1711ASD_686genes_rlm
 
 
