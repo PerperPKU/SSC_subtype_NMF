@@ -8,4 +8,11 @@ Using NMF to subtype ASD
 ### NMF (0.28)
 ## 2. install NMF
 ### install.package('NMF')
+## 3. Identify genes related traits using robost linear regression
+1.rlm_single_task.R
+## 4. Run NMF using trait_related gene expression matrix (chooose optimal rank)
+2. NMF_random_n30_1711ASD_5pheno_686_genes_overlap_genes.R
+## 5. Run NMF using trait_related gene expression matrix using optimal rank
+
+
 
