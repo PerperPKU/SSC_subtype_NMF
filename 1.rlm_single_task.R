@@ -1,4 +1,7 @@
-
+## This script is to obtain genes related to trait. 
+## And we performed 100 replicates, each time randomly subsampled 90% of the participants (N = 1,540) 
+## and testing the associations between gene expression and ASD symptoms using the rlm function from the MASS package. 
+## Each replicate may take up to 2 hours, so we recommend running multiple tasks simultaneously.
 rm(list = ls())
 gc()
 
