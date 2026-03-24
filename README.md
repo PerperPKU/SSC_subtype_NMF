@@ -7,7 +7,7 @@ Using NMF to subtype ASD
 ### optparse (1.7.5)
 ### NMF (0.28)
 ## 2. install NMF
-### install.package('NMF')
+install.package('NMF')
 Normally, the installation should take no more than 20 minutes.
 ## 3. Identify genes related traits using robost linear regression
 1.rlm_single_task.R
